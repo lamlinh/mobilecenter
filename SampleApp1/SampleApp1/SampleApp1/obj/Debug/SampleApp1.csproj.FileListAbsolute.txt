@@ -1,0 +1,15 @@
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\SampleApp1.dll
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\SampleApp1.pdb
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Core.dll
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Core.xml
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\obj\Debug\SampleApp1.csprojResolveAssemblyReference.cache
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\obj\Debug\SampleApp1.dll
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\obj\Debug\SampleApp1.pdb
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\obj\Debug\SampleApp1.dll.mdb
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\bin\Debug\SampleApp1.dll.mdb

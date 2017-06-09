@@ -1,0 +1,2 @@
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1.WinPhone\SampleApp1.WinPhone.csproj;neutral
+C:\DEV\SourceControl\GitHub\mobilecenter\SampleApp1\SampleApp1\SampleApp1\SampleApp1.csproj;neutral
